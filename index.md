@@ -1,6 +1,6 @@
 ---
 
-title: Lignani's Website
+title: Lignani Project's Website
 layout: page
 feature_image: "/immagine_lignani.jpg"
 
