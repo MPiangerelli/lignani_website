@@ -8,13 +8,13 @@ title: People
 
 #### Marco Piangerelli, Phd
 
-<img src="marco_copia.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="/marco_copia.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
 Marco is a Postdoctoral Resarch Fellow in the Math Division in the School of Science and Techologies of University of Camerino. His research interest focus on data anlysis and machine learnig applied to biological problems.
-https://marcopiangerelli.it
 
 
 
+**personal website:** <a href="https://marcopiangerelli.it" target="_blank">Marco Piangerelli's web site </a>
 **email:** marco.piangerelli (at) unicam (dot) it
 
 **twitter:** <a href="https://twitter.com/MPiangerelli" target="_blank">MPiangerelli </a>
@@ -29,7 +29,7 @@ https://marcopiangerelli.it
 
 #### Laura Bordoni, Phd
 
-<img src="laura.jpg" style="width:20%; border:10px solid; margin-right: 20px" align="left">
+<img src="/laura.jpg" style="width:20%; border:10px solid; margin-right: 20px" align="left">
 
 Laura Bordoni is a Master of Science in Food and Nutrition Sciences and PhD in Molecular Biology and Cellular Biotechnology at University of Camerino, Italy. Her research is focused on the study of interactions between nutrients and the genome. She investigates how different genetic variants modulate personalized responses to food (nutrigenetics) and how  food and environmental stimuli affect the genome through epigenetic mechanisms (nutriepigenomics).  Currently, she is a post-doctoral researcher at Nutrigenomics Lab, University of Camerino, Italy.
 
@@ -45,7 +45,7 @@ Laura Bordoni is a Master of Science in Food and Nutrition Sciences and PhD in M
 
 #### Federica Giusti, Phd
 
-<img src="fotofede.jpeg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="/fotofede.jpeg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
 In 2018, Federica Giusti joined Janssen Pharmaceuticals, a pharmaceutical company of Johnson &amp;
 Johnson as Postdoctoral Scientist.
