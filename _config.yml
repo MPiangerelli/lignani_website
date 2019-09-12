@@ -16,6 +16,8 @@ plugins:
 - jekyll-redirect-from
 - jekyll-default-layout
 - jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
 - jemoji
 
 # Site settings
@@ -36,6 +38,8 @@ navigation_header:
   url: /
 - title: About
   url: /about/
+- title: People
+  url: /people/
 - title: Blog
   url: /blog/
 
