@@ -28,6 +28,22 @@ description: ''
 permalink: pretty
 logo: "unicam_logo_bianco.png"
 
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+lang: en-GB # Set the site language
+title: "Progetto Lignai" # Site name or title, also used in jekyll-seo-tag
+logo: "/unicam_logo_bianco.png" # Site logo, also used in jekyll-seo-tag
+#description: "Computer Science Division & Math Division, Polo 'Carla Lodovici', via Madonna delle Carceri, 7" # Site description and default description, also used in jekyll-seo-tag
+#url: "https://marcopiangerelli.it/" # Site url, also used in jekyll-seo-tag
+baseurl: ""
+repo: "https://github.com/MPiangerelli/lignani-website.github.io"
+email: "marco.piangerelli-at-unicam.it"
+# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+# google_analytics: ''
+# google_analytics_anonymize_ip: ''
+# service_worker: false # Will turn off the service worker if set to false
+css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
+
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
