@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: 'https://mydomain.com'
-baseurl: ''
+baseurl: 'https://github.com/MPiangerelli/lignani_website/blob/master'
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
