@@ -29,7 +29,7 @@ https://marcopiangerelli.it
 
 #### Laura Bordoni, Phd
 
-<img src="laura.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src="laura.jpg" style="width:20%; border:10px solid; margin-right: 20px" align="left">
 
 Laura Bordoni is a Master of Science in Food and Nutrition Sciences and PhD in Molecular Biology and Cellular Biotechnology at University of Camerino, Italy. Her research is focused on the study of interactions between nutrients and the genome. She investigates how different genetic variants modulate personalized responses to food (nutrigenetics) and how  food and environmental stimuli affect the genome through epigenetic mechanisms (nutriepigenomics).  Currently, she is a post-doctoral researcher at Nutrigenomics Lab, University of Camerino, Italy.
 
