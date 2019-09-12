@@ -58,13 +58,16 @@ navigation_header:
   url: /
 - title: People
   url: /people/
-- title: Blog
-  url: /blog/
+#- title: Blog
+#  url: /blog/
 
 # Footer nav
+#navigation_footer:
+#- title: Back to top
+#  url: "#top"
 navigation_footer:
-- title: Back to top
-  url: "#top"
+- title: Adapted from Alembic theme
+  url: https://alembic.darn.es/
 
 # Collections
 collections:
